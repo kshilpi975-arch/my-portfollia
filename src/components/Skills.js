@@ -7,7 +7,7 @@ const Skills = () => {
     { name: 'Adobe Photoshop', icon: '🎯', level: 80, color: 'pink' },
     { name: 'Social Media Design', icon: '📱', level: 88, color: 'indigo' },
     { name: 'Branding', icon: '🏷️', level: 85, color: 'orange' },
-    { name: 'GitHub/Git', icon: '🐙', level: 75, color: 'blue' },
+    { name: 'GitHub/Git', icon: '🐙', level: 85, color: 'blue' },
     { name: 'Generative AI', icon: '🤖', level: 82, color: 'purple' },
     { name: 'Google Drive', icon: '☁️', level: 95, color: 'pink' },
     { name: 'Excel', icon: '📊', level: 88, color: 'indigo' },

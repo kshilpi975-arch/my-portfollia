@@ -33,7 +33,7 @@ const About = () => {
             </h3>
             
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
-              I am a Media Analyst with experience in creating engaging visual content and brand-focused imagery. I work on delivering high-quality creatives aligned with marketing strategies. Proficient in modern tools including GitHub/Git for version control, Generative AI for content creation, Google Drive for collaboration, Excel for data analysis, and PowerPoint for professional presentations.
+              I am a Media Analyst with experience in creating engaging visual content and brand-focused imagery. I work on delivering high-quality creatives aligned with marketing strategies. Proficient in modern tools including GitHub/Git for version control and repository management, Generative AI for content creation, Google Drive for collaboration, Excel for data analysis, and PowerPoint for professional presentations.
             </p>
             
             <div className="space-y-4 mb-8">

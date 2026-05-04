@@ -33,6 +33,14 @@ const Projects = () => {
       tags: ['Excel', 'Data Analysis', 'Reporting'],
       color: 'purple',
       features: ['Data Visualization', 'Performance Metrics', 'Automated Reports']
+    },
+    {
+      title: 'Portfolio Repository',
+      description: 'Developed and maintained complete portfolio website with GitHub version control and CI/CD pipeline',
+      image: '🔧',
+      tags: ['GitHub', 'Git', 'Version Control', 'CI/CD'],
+      color: 'blue',
+      features: ['Repository Management', 'Version Control', 'Code Documentation', 'Deployment Automation']
     }
   ];
 

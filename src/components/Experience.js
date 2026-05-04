@@ -13,7 +13,7 @@ const Experience = () => {
         'Created visual content for campaigns',
         'Collaborated with teams',
         'Delivered creative assets on time',
-        'Implemented version control with GitHub/Git',
+        'Implemented version control with GitHub/Git for project management',
         'Utilized Generative AI for content optimization',
         'Managed project documentation in Google Drive',
         'Created data-driven reports with Excel',
